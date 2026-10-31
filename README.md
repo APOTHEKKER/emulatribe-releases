@@ -6,7 +6,7 @@ Hier liegt kein Quellcode, nur was das Setup selbst herunterlädt:
 
 | Ort | Inhalt |
 | --- | --- |
-| `version.txt` | neueste Version (`v1.26.106`), ohne Zeilenumbruch |
+| `version.txt` | neueste Version (`v1.26.107`), ohne Zeilenumbruch |
 | `app/v<Version>/emulatribe2.exe` | die App dieser Version, daneben `.sha256` – das Setup lädt sie beim Installieren und beim Update |
 | `changelogs/` | ein Changelog pro Release, Name `TT.MM.JJJJ.txt` |
 | `languages/` | Sprachdateien des Setups (`de`, `es`, `fr`, `ru`) |
