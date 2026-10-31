@@ -1,0 +1,7 @@
+Oct 30, 2026 (v1.26.106)
+New Features
+    - (Hardware) SD card for installed systems: Emulatribe's card (the internal one or a mounted folder) now sits in the card slot of the emulated hardware. The firmware sees your files, and what it writes there (EXPORT PATTERN, samples, CARD FORMAT ...) comes back to Emulatribe's card.
+    - (Sound) An installed system (KORG, BLECH, hacktribe ...) now plays its own sounds: oscillators, filters, effects and levels chosen on the firmware drive the sound engine, so every part sounds the way it is set and can be edited on the device.
+Improvements
+    - (Display) Sharper display for installed systems and their start images: drawn at the resolution of your screen as a fine dot matrix with the soft shadow of a real LCD. Only the look changes, the emulation stays exactly the same.
+    - (Hardware) Faster card transfers on the emulated hardware.

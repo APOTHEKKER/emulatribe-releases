@@ -1,0 +1,15 @@
+Oct 2, 2026 (v1.26.102)
+
+New Features
+
+(emulatribe2) Switched from only html, js, css based to nodejs, react & typescript + Rust 
+(emulatribe2) 421 OSC-Einträge 1:1 nach Parameter Guide
+(emulatribe2) 72 Modulationstypen implementiert
+(emulatribe2) 35 Scales, 25 Grooves, 50 Gate-Arp-Muster
+(emulatribe2) Beat-Optionen 16 / 32 / 8Tri / 16Tri korrekt nach Handbuch
+
+Fixes & Enhancements
+
+(emulatribe2) BPM-Schrittweite korrigiert: Value = 1 BPM, Shift+Value = 0,1 BPM
+(emulatribe2) Swing-Bereich auf ±50 % korrigiert
+(emulatribe2) Beat-Optionen von falschen Werten bereinigt

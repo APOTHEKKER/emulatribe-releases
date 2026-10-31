@@ -1,0 +1,219 @@
+{
+  "language": "fr",
+  "name": "Français",
+  "strings": {
+    "setup": "INSTALLATION",
+    "welcome": "Bienvenue",
+    "channel": "À JOUR",
+    "steps": {
+      "label": "Étapes de l’installation",
+      "config": "Configuration",
+      "eula": "CLUF",
+      "privacy": "Confidentialité",
+      "finish": "Terminer"
+    },
+    "installationPath": "chemin d’installation",
+    "installationPathHint": "Modifiez le chemin du dossier dans lequel l’application sera enregistrée.",
+    "change": "modifier",
+    "chooseFolder": "Emplacement d’installation",
+    "spaceAvailable": "espace disponible",
+    "spaceNeeded": "espace requis",
+    "optional": "Options",
+    "thanks": {
+      "title": "Hé, VOUS !",
+      "text": "Merci infiniment d’avoir téléchargé PORK Emulatribe 2 – nous espérons que vous prendrez beaucoup de plaisir à faire de la musique avec.",
+      "donate": "Si vous l’aimez et souhaitez soutenir son développement, vous pouvez faire un petit don :",
+      "button": "Faire un don avec"
+    },
+    "changelogs": {
+      "label": "Nouveautés",
+      "title": "Journal des modifications",
+      "loading": "Chargement du journal des modifications …",
+      "failed": "Impossible de charger le journal des modifications",
+      "retry": "RÉESSAYER",
+      "empty": "Aucune modification pour l’instant.",
+      "newest": "NOUVEAU",
+      "older": "plus ancien",
+      "newer": "plus récent",
+      "close": "Fermer le journal des modifications"
+    },
+    "legal": {
+      "scrollHint": "Faites défiler jusqu’à la fin pour accepter",
+      "eula": "CONDITIONS D’UTILISATION ET CONTRAT DE LICENCE UTILISATEUR FINAL (CLUF)\nPORK Emulatribe 2\nDernière mise à jour : octobre 2026\n1. Champ d’application\nLes présentes Conditions d’utilisation et le présent Contrat de licence utilisateur final (le « Contrat ») régissent l’utilisation de PORK Emulatribe 2, y compris les applications, mises à jour et extensions associées ainsi que les services en ligne directement liés, sauf si des conditions distinctes s’appliquent à un service particulier.\nLe logiciel est fourni par :\nPORK - un projet logiciel indépendant d’APOTHEKKER\nFournisseur légal : Maurice K.\nSüdstr. 40\n09337, Hohenstein-Ernstthal\nAllemagne\n\nE-mail : admin@emulatribe.app\n\nCi-après dénommé le « Fournisseur ».\nLa personne qui utilise PORK Emulatribe 2 est dénommée l’« Utilisateur ».\nSi l’Utilisateur est un consommateur, les dispositions impératives de protection des consommateurs ne sont pas affectées.\n\n\n2. Description du logiciel\nPORK Emulatribe 2 est un logiciel développé de manière indépendante, conçu pour simuler numériquement et fournir des fonctions associées aux équipements de production musicale électronique, notamment le séquençage, la synthèse, l’échantillonnage, les effets, les fonctions MIDI et d’autres fonctions de production musicale.\nLe logiciel peut reproduire certaines fonctions, certains flux de travail, concepts d’utilisation ou caractéristiques techniques de produits matériels existants, ou s’en inspirer.\nPORK Emulatribe 2 est un produit logiciel indépendant.\nPORK Emulatribe 2 n’est pas affilié à KORG Inc. ni à l’une de ses sociétés affiliées, et n’est ni approuvé, ni sponsorisé, ni développé, ni officiellement pris en charge par celles-ci.\nLes noms, marques ou noms de produits de tiers mentionnés dans le logiciel ou sa documentation sont utilisés uniquement à des fins d’identification, de description, de compatibilité ou d’information. Tous les droits appartiennent à leurs propriétaires respectifs.\n\n\n3. Concession de licence\nSous réserve des présentes conditions, le Fournisseur accorde à l’Utilisateur un droit limité et non exclusif d’installer et d’utiliser PORK Emulatribe 2.\nSauf limitation différente expressément indiquée lors de l’achat d’une licence particulière, l’Utilisateur peut installer et utiliser le logiciel sur les appareils dont il est propriétaire ou qu’il contrôle légalement.\nLa licence ne transfère à l’Utilisateur aucune propriété sur le logiciel, le code source, la propriété intellectuelle ou d’autres droits exclusifs.\n\n\n4. Utilisation autorisée\nPORK Emulatribe 2 peut être utilisé pour :\n\n* la production musicale,\n* le sound design,\n* l’enregistrement audio,\n* le séquençage MIDI,\n* la création de presets et de projets,\n* les performances live,\n* l’usage personnel et\n* la production musicale commerciale.\n\nLa musique, les enregistrements, les données MIDI, les projets, les presets et autres œuvres originales créés par l’Utilisateur peuvent en principe être publiés, vendus, diffusés en streaming, interprétés ou exploités commercialement de toute autre manière par l’Utilisateur.\nCela ne confère à l’Utilisateur aucun droit sur le matériel de tiers intégré dans ces œuvres.\n\n\n5. Contenu de l’utilisateur\nL’Utilisateur conserve tous les droits sur le contenu qu’il crée ou fournit.\nCela peut inclure :\n\n* des samples,\n* des enregistrements audio,\n* des boucles,\n* des fichiers MIDI,\n* des presets,\n* des banques de sons,\n* des fichiers de projet,\n* des graphismes et\n* d’autres contenus importés ou créés.\n\nL’Utilisateur est seul responsable de s’assurer qu’il dispose de tous les droits et autorisations nécessaires à l’utilisation de ce contenu.\nLe Fournisseur n’acquiert aucune propriété sur le contenu de l’Utilisateur du seul fait que l’Utilisateur l’utilise avec PORK Emulatribe 2.\nSauf indication contraire d’une fonction en ligne expressément fournie, le contenu de l’Utilisateur reste sur son appareil et n’est pas transmis au Fournisseur.\n\n\n6. Firmware, ROM et données de tiers\nPORK Emulatribe 2 est en principe distribué sans firmware propriétaire, images ROM, contenus originaux protégés par le droit d’auteur ou autre matériel de tiers pour lequel le Fournisseur ne détient pas les droits nécessaires.\nSi le logiciel permet d’importer ou d’utiliser des données obtenues en externe, l’Utilisateur est seul responsable de la licéité de cette utilisation.\nL’existence d’une fonction d’importation ou de compatibilité n’autorise pas à obtenir, reproduire, distribuer ou utiliser illégalement du matériel de tiers protégé par le droit d’auteur.\n\n\n7. Ingénierie inverse et interopérabilité\nL’Utilisateur ne doit pas décompiler, désassembler, procéder à l’ingénierie inverse, modifier ou tenter de reconstituer le logiciel de toute autre manière, sauf si cela est expressément autorisé par le droit impératif applicable.\nAucune disposition du présent Contrat ne vise à exclure ou à restreindre des droits qui ne peuvent légalement être exclus, y compris les droits légaux relatifs à l’interopérabilité, à l’analyse licite de logiciels ou à d’autres exceptions impératives prévues par le droit d’auteur applicable.\n\n\n8. Utilisation interdite\nSauf autorisation expresse du droit applicable, l’Utilisateur ne doit pas :\n\n1. distribuer le logiciel ou le mettre publiquement à la disposition de tiers non autorisés ;\n2. louer, donner en crédit-bail, sous-licencier ou redistribuer commercialement le logiciel ;\n3. supprimer ou modifier les mentions de droits d’auteur, de licence ou d’autres droits de propriété ;\n4. utiliser des clés de licence volées, frauduleuses ou obtenues illégalement ;\n5. contourner des mesures techniques de protection lorsque ce contournement est illégal ;\n6. utiliser le logiciel à des fins illicites ; ou\n7. présenter PORK Emulatribe 2 comme un produit officiel d’une autre entreprise ou d’un autre titulaire de marque, ou comme étant affilié à ceux-ci.\n\n\n\n9. Mises à jour et développement\nLe Fournisseur peut développer et publier des mises à jour de PORK Emulatribe 2.\nLes mises à jour peuvent comprendre :\n\n* des corrections de bugs,\n* des correctifs de sécurité,\n* des améliorations des performances,\n* des améliorations de la compatibilité,\n* de nouvelles fonctions,\n* des modifications de fonctions existantes,\n* la prise en charge de systèmes d’exploitation et\n* des mises à jour de composants techniques.\n\nLorsque le droit impératif exige la fourniture de mises à jour, ces exigences ne sont pas affectées par le présent Contrat.\n\n\n10. Modifications du logiciel\nLe Fournisseur peut modifier ou améliorer le logiciel dans le cadre de son développement continu.\nLorsque le droit applicable impose des restrictions aux modifications substantielles de produits numériques, ces exigences légales ne sont pas affectées.\nAucune disposition du présent Contrat ne limite les droits légaux impératifs des consommateurs en matière de modifications substantielles.\n\n\n11. Différences techniques et précision de l’émulation\nPORK Emulatribe 2 est une implémentation logicielle et non une copie physique d’un appareil matériel particulier.\nPar conséquent, des différences techniques peuvent apparaître, notamment en ce qui concerne :\n\n* les caractéristiques sonores,\n* le timing,\n* le comportement MIDI,\n* la latence audio,\n* le traitement du signal,\n* les effets,\n* le comportement du séquenceur,\n* l’utilisation du CPU ou du GPU,\n* la compatibilité matérielle ou\n* le comportement du système d’exploitation.\n\nSauf indication contraire expresse, une identité technique, fonctionnelle ou sonore complète avec un produit matériel particulier n’est pas garantie.\n\n\n12. Configuration requise\nL’utilisation de PORK Emulatribe 2 peut nécessiter du matériel, des systèmes d’exploitation, des pilotes, des appareils audio, des appareils MIDI compatibles ou d’autres prérequis techniques.\nL’Utilisateur est responsable de s’assurer que son système satisfait aux exigences minimales applicables.\nLa configuration requise peut changer pour les versions futures.\n\n\n13. Disponibilité\nLe Fournisseur s’efforce de fournir un produit logiciel stable et fiable.\nToutefois, un fonctionnement continu, ininterrompu ou totalement exempt d’erreurs ne peut être garanti.\nDes pannes temporaires peuvent résulter de la maintenance, de modifications du système d’exploitation, de problèmes matériels, de pilotes, de services tiers, de problèmes de réseau ou de circonstances échappant au contrôle raisonnable du Fournisseur.\nLes droits légaux impératifs ne sont pas affectés.\n\n\n14. Responsabilité\nLe Fournisseur est responsable conformément au droit applicable.\nAucune disposition du présent Contrat n’exclut ni ne limite la responsabilité lorsqu’une telle exclusion ou limitation est interdite par la loi.\nCela inclut, le cas échéant, la responsabilité pour faute intentionnelle, négligence grave, atteinte à la vie, à l’intégrité physique ou à la santé, les dispositions impératives relatives à la responsabilité du fait des produits ou toute autre responsabilité qui ne peut légalement être exclue.\nDans la mesure permise par la loi, la responsabilité pour les manquements par négligence légère à des obligations contractuelles essentielles est limitée aux dommages typiques et prévisibles.\n\n\n15. Propriété intellectuelle\nTous les droits sur PORK Emulatribe 2 et ses composants originaux restent la propriété des titulaires de droits concernés.\nCela inclut notamment :\n\n* le code source,\n* le code exécutable,\n* l’architecture du logiciel,\n* l’interface utilisateur,\n* les graphismes,\n* les logos,\n* la documentation,\n* les samples originaux,\n* les presets originaux,\n* les textes et\n* les autres éléments créés par le Fournisseur.\n\nL’Utilisateur ne reçoit que les droits expressément accordés par le présent Contrat.\n\n\n16. Logiciels libres et composants tiers\nPORK Emulatribe 2 peut contenir des logiciels tiers et des composants open source.\nCes composants peuvent être soumis à leurs propres conditions de licence.\nLes textes de licence, mentions de droits d’auteur et exigences d’attribution applicables sont mis à disposition dans le logiciel, dans sa documentation ou dans une section dédiée aux licences tierces.\nLorsqu’une licence tierce accorde des droits impératifs ou impose des obligations impératives, ces conditions s’appliquent au composant concerné.\n\n\n17. Résiliation\nL’Utilisateur peut mettre fin à son utilisation de PORK Emulatribe 2 en désinstallant le logiciel, sous réserve de conditions distinctes applicables aux abonnements ou à d’autres licences en cours.\nLe Fournisseur peut résilier une licence en cas de manquement grave lorsque le droit applicable le permet.\nLa résiliation n’affecte pas les droits légalement acquis sur les œuvres créées par l’Utilisateur ou sur le contenu de l’Utilisateur.\n\n\n18. Droit de rétractation du consommateur\nLorsque PORK Emulatribe 2 est vendu à des consommateurs en tant que contenu numérique, le droit légal de rétractation s’applique lorsque la loi l’exige.\nSelon la juridiction applicable et la transaction concernée, le droit de rétractation peut s’éteindre dans les conditions légales dès lors que le consommateur a expressément demandé que l’exécution commence avant la fin du délai de rétractation et a reconnu les conséquences juridiques.\nTout consentement ou toute reconnaissance requis par la loi sera obtenu dans le cadre du processus d’achat correspondant.\n\n\n19. Droits des consommateurs\nAucune disposition du présent Contrat ne limite les droits légaux impératifs des consommateurs.\nEn particulier, les droits légaux relatifs aux produits numériques défectueux, à la conformité, aux mises à jour et les autres protections des consommateurs ne sont pas affectés.\n\n\n20. Confidentialité\nLes informations relatives au traitement des données personnelles figurent dans la Politique de confidentialité applicable :\nhttps://www.emulatribe.app/privacy-policy\nLa Politique de confidentialité constitue la base du traitement des données personnelles par le Fournisseur.\n\n\n21. Droit applicable\nLe droit allemand s’applique, à l’exclusion des règles de conflit de lois dans la mesure où la loi le permet.\nLes dispositions impératives de protection des consommateurs du pays dans lequel un consommateur a sa résidence habituelle ne sont pas affectées, le cas échéant.\n\n\n22. Divisibilité\nSi une disposition du présent Contrat est jugée invalide ou inapplicable, les autres dispositions restent en vigueur dans la mesure permise par la loi.\nLa disposition invalide est remplacée par les dispositions légales applicables ou interprétée conformément à celles-ci.\nFIN DES CONDITIONS D’UTILISATION ET DU CLUF",
+      "privacy": "POLITIQUE DE CONFIDENTIALITÉ\nPORK Emulatribe 2\nDernière mise à jour : octobre 2026\n1. Responsable du traitement\nLe responsable du traitement des données personnelles en lien avec PORK Emulatribe 2 est :\nAPOTHEKKER (Maurice K.)\nSüdstr. 40, 09337 Hohenstein-Er.\nadmin@emulatribe.app\n2. Principe général de confidentialité\nPORK Emulatribe 2 est conçu avant tout comme un logiciel local de production musicale.\nLes enregistrements audio, samples, presets, projets, données MIDI et autres contenus de l’Utilisateur sont en principe traités localement sur l’appareil de l’Utilisateur.\nCes contenus ne sont pas transmis au Fournisseur, sauf si l’Utilisateur utilise expressément une fonction nécessitant une telle transmission.\n3. Utilisation sans compte\nL’utilisation de base de PORK Emulatribe 2 ne nécessite pas de compte utilisateur, sauf indication contraire expresse pour une version ou un service particulier.\nLe logiciel ne nécessite pas de données personnelles pour simplement créer ou modifier des projets musicaux locaux.\n4. Données locales de projets, audio et presets\nPORK Emulatribe 2 peut créer et stocker des données localement sur l’appareil de l’Utilisateur, notamment :\n* des fichiers de projet,\n* des samples,\n* des enregistrements audio,\n* des presets,\n* des données MIDI,\n* des fichiers de configuration,\n* des paramètres de l’application et\n* d’autres contenus de l’Utilisateur.\nCes fichiers sont en principe traités localement.\nLe Fournisseur ne reçoit pas ces contenus et n’y a pas accès, sauf si l’Utilisateur les transfère expressément via une fonction en ligne correspondante.\n5. Analyse et suivi\nPORK Emulatribe 2 n’utilise pas, par défaut, de suivi publicitaire personnalisé.\nLe Fournisseur ne crée pas de profils d’utilisateurs à des fins publicitaires au moyen de l’application locale standard.\n[IMPORTANT : REMPLACER CETTE SECTION SI DES ANALYSES OU DE LA TÉLÉMÉTRIE SONT RÉELLEMENT UTILISÉES.]\nSi des données de diagnostic facultatives ou des données d’utilisation anonymes sont introduites, la fonctionnalité concernée sera communiquée séparément et, lorsque la loi l’exige, le consentement nécessaire sera recueilli.\n6. Site web\nLors de la visite du site web officiel de PORK Emulatribe 2, des informations techniques peuvent être traitées par le serveur web.\nSelon la configuration de l’hébergement, cela peut inclure :\n* l’adresse IP,\n* la date et l’heure,\n* la page demandée,\n* le type de navigateur,\n* le système d’exploitation,\n* la page de provenance et\n* des données techniques de journalisation.\nHébergeur :\n[HÉBERGEUR]\nPolitique de confidentialité :\n[URL]\n7. Téléchargements\nLors du téléchargement de PORK Emulatribe 2, des données techniques de connexion peuvent être traitées par le serveur hébergeant le téléchargement.\nCela peut inclure l’adresse IP de l’Utilisateur, l’horodatage, le fichier demandé et d’autres informations techniques.\nLorsque le logiciel est distribué via une boutique externe, l’opérateur de la plateforme concernée peut traiter des données personnelles de manière indépendante conformément à sa propre politique de confidentialité.\n8. Prestataires de paiement\nLors de l’achat de versions ou de services payants, les informations de paiement peuvent être traitées par un prestataire de paiement externe.\nSelon le mode de paiement choisi, le Fournisseur peut recevoir des informations liées à la transaction nécessaires à l’octroi de licences, à la gestion des commandes, au support client, à la comptabilité ou à la prévention de la fraude.\nPrestataire de paiement :\n[STRIPE / PAYPAL / AUTRE PRESTATAIRE]\nPolitique de confidentialité :\n[URL]\n9. Boutiques de logiciels et plateformes de distribution\nSi PORK Emulatribe 2 est distribué via une boutique ou une plateforme de logiciels externe, cette plateforme peut traiter des données personnelles de manière indépendante.\nCe traitement peut inclure des informations de compte, des données de paiement, des informations sur l’appareil, des informations de licence, l’historique des achats ou des données d’utilisation.\nL’opérateur de la plateforme concernée est en principe responsable de ce traitement.\nLa politique de confidentialité de la plateforme concernée s’applique à ces activités de traitement.\n10. Bases juridiques\nLes données personnelles ne sont traitées que lorsqu’une base juridique valable existe en vertu du droit applicable en matière de protection des données.\nSelon l’activité de traitement concernée, la base juridique peut être :\n* l’exécution d’un contrat,\n* le respect d’une obligation légale,\n* des intérêts légitimes ou\n* le consentement.\nLa base juridique exacte dépend de l’activité de traitement concernée.\n11. Conservation des données\nLes données personnelles ne sont conservées que pendant la durée nécessaire à la finalité concernée ou pendant la durée exigée par les obligations légales de conservation applicables.\nUne fois la finalité atteinte et en l’absence d’obligation légale imposant une conservation prolongée, les données sont supprimées ou anonymisées, selon le cas.\n12. Destinataires des données personnelles\nLes données personnelles ne peuvent être communiquées à des tiers que lorsque cela est nécessaire pour :\n* l’exécution du contrat,\n* le respect des obligations légales,\n* la fourniture de services techniques,\n* la sécurité,\n* le traitement des paiements,\n* la distribution du logiciel ou\n* une autre finalité légalement autorisée.\nSelon les services effectivement utilisés, les destinataires peuvent inclure des hébergeurs, des prestataires de paiement, des fournisseurs de mises à jour, des fournisseurs de messagerie, des systèmes de support client, des fournisseurs de rapports de plantage ou des plateformes de distribution de logiciels.\n13. Transferts internationaux de données\nLorsque des prestataires traitent des données personnelles en dehors de l’Espace économique européen ou d’une autre juridiction offrant des exigences équivalentes en matière de protection des données, les transferts n’ont lieu que conformément au droit applicable en matière de protection des données.\nLorsque la loi l’exige, des garanties appropriées telles que des décisions d’adéquation, des Clauses contractuelles types ou d’autres garanties reconnues sont utilisées.\n14. Droits des personnes concernées\nSous réserve des exigences légales applicables, les personnes peuvent avoir le droit :\n* d’accéder à leurs données personnelles ;\n* de demander la rectification de données inexactes ;\n* de demander l’effacement ;\n* de demander la limitation du traitement ;\n* de s’opposer à certains traitements ;\n* de demander la portabilité des données ;\n* de retirer leur consentement lorsque le traitement repose sur le consentement ; et\n* d’introduire une réclamation auprès d’une autorité de protection des données compétente.\nLes demandes peuvent être adressées à :\nadmin@emulatribe.app\n15. Droit d’introduire une réclamation\nVous avez le droit d’introduire une réclamation auprès d’une autorité de contrôle de la protection des données si vous estimez que vos données personnelles sont traitées de manière illicite.\nL’autorité de contrôle compétente en Saxe est :\nSächsische Datenschutz- und Transparenzbeauftragte\nDr. Juliane Hundert\nMaternistraße 17\n01067 Dresden\nAllemagne\nE-mail : post@sdtb.sachsen.de\nSite web : www.datenschutz.sachsen.de\n16. Sécurité des données\nLe Fournisseur prend des mesures techniques et organisationnelles appropriées pour protéger les données personnelles contre l’accès non autorisé, la perte, l’altération, la destruction ou tout autre traitement illicite.\nLes mesures concrètes dépendent de la nature et de l’étendue des activités de traitement concernées.\n17. Modifications de la présente Politique de confidentialité\nLa présente Politique de confidentialité peut être mise à jour lorsque les circonstances techniques, juridiques ou organisationnelles de PORK Emulatribe 2 changent.\nLa version en vigueur est disponible à l’adresse :\nhttps://www.emulatribe.app/privacy-policy\nDernière mise à jour : octobre 2026\nFIN DE LA POLITIQUE DE CONFIDENTIALITÉ"
+    },
+    "options": {
+      "midiDrivers": {
+        "title": "MIDI - Pilotes USB",
+        "description": "Installe les pilotes USB pour les appareils MIDI"
+      },
+      "startMenuShortcut": {
+        "title": "Raccourci dans le menu Démarrer",
+        "description": "ajoute un raccourci dans votre menu Démarrer"
+      },
+      "hacktribe": {
+        "title": "Blechtribe 1.3.7_V202",
+        "description": "Installe la version modifiée de l’OS « Blechtribe 1.3.7_V202 » sur l’appareil"
+      },
+      "desktopShortcut": {
+        "title": "Raccourci sur le bureau",
+        "description": "ajoute un raccourci sur votre bureau"
+      }
+    },
+    "optionsDisabled": {
+      "midiDrivers": "✓ Déjà installé sur cet appareil"
+    },
+    "acceptTerms": "J’accepte pleinement et expressément les conditions d’utilisation (CLUF).",
+    "acceptPrivacy": "J’accepte pleinement et expressément la politique de confidentialité.",
+    "buttons": {
+      "next": "SUIVANT",
+      "install": "INSTALLER",
+      "finish": "TERMINER",
+      "retry": "RÉESSAYER"
+    },
+    "finish": {
+      "installing": "Installation…",
+      "done": "Installation terminée",
+      "failed": "Échec de l’installation",
+      "failedHint": "Revenez à la configuration pour choisir un autre dossier, ou appuyez sur RÉESSAYER.",
+      "installedTo": "installé dans",
+      "launch": {
+        "title": "Lancer PORK Emulatribe 2",
+        "description": "lance l’application lorsque vous appuyez sur TERMINER"
+      },
+      "midi": {
+        "present": "MIDI : le pilote KORG USB-MIDI était déjà installé sur cet appareil.",
+        "builtin": "MIDI : Windows inclut déjà le pilote USB-MIDI – rien à installer.",
+        "installed": "MIDI : le pilote KORG USB-MIDI a été installé.",
+        "reboot": "MIDI : le pilote KORG USB-MIDI a été installé – redémarrez Windows pour terminer.",
+        "failed": "MIDI : le pilote KORG USB-MIDI n’a pas pu être installé"
+      },
+      "fonts": "Polices : {count} polices de l’application sont installées.",
+      "fontsFailed": "Polices : les polices de l’application n’ont pas pu être installées"
+    },
+    "progress": {
+      "preparing": "Préparation",
+      "copyingFiles": "Copie des fichiers",
+      "copyingWebView2": "Copie de l’environnement WebView2",
+      "creatingShortcuts": "Création des raccourcis",
+      "downloadingMidiDriver": "Téléchargement du pilote KORG USB-MIDI",
+      "installingMidiDriver": "Installation du pilote KORG USB-MIDI",
+      "downloadingFonts": "Téléchargement des polices",
+      "installingFonts": "Installation des polices",
+      "registering": "Enregistrement de l’application",
+      "downloadingFirmware": "Téléchargement du firmware KORG 2.02",
+      "downloadingPatch": "Téléchargement du patch Hacktribe",
+      "patching": "Application du patch et vérification",
+      "writingSdCard": "Écriture sur la carte SD",
+      "removingShortcuts": "Suppression des raccourcis",
+      "removingMidiDriver": "Suppression du pilote KORG USB-MIDI",
+      "removingFonts": "Suppression des polices",
+      "removingRegistry": "Suppression des entrées du registre",
+      "removingFiles": "Suppression des fichiers",
+      "removingUserData": "Suppression des patterns, samples et paramètres",
+      "handingOver": "Transfert vers Emulatribe",
+      "verifying": "Vérification du micrologiciel"
+    },
+    "hacktribe": {
+      "title": "Blechtribe 1.3.7_V202",
+      "description": "Écrit l’OS modifié « Blechtribe 1.3.7_V202 » sur une carte SD pour votre electribe. Le micrologiciel est fourni avec cet installateur et vérifié avant l’écriture. Modifier le micrologiciel se fait à vos risques et périls.",
+      "devices": {
+        "synth": "electribe",
+        "sampler": "electribe sampler",
+        "hacktribe": "Blechtribe installé",
+        "emulator": "Emulatribe (ce PC)"
+      },
+      "sdCard": "Carte SD",
+      "chooseSdCard": "Carte SD de l’electribe",
+      "noCard": "choisissez la carte SD …",
+      "write": "écrire",
+      "written": "Écrit dans",
+      "next": "Insérez ensuite la carte dans l’electribe et effectuez la mise à jour du système comme décrit dans le manuel KORG.",
+      "guide": "Guide Blechtribe",
+      "emulator": "Le transmet à PORK Emulatribe 2 sur ce PC. L’app le place sur sa carte SD et ouvre SOFTWARE UPDATE : confirme avec Enter, puis éteins et rallume l’appareil.",
+      "handOver": "transmettre",
+      "handedOver": "Prêt pour Emulatribe.",
+      "startApp": "lancer Emulatribe"
+    },
+    "update": {
+      "checking": "VÉRIFICATION …",
+      "available": "Mise à jour disponible",
+      "download": "télécharger la nouvelle version",
+      "downloading": "TÉLÉCHARGEMENT",
+      "downloaded": "TÉLÉCHARGÉ – AFFICHER",
+      "downloadedTitle": "Mise à jour téléchargée",
+      "downloadedHint": "Décompressez-la et lancez le nouveau programme d’installation.",
+      "failedDownload": "La mise à jour n’a pas pu être téléchargée",
+      "openedFolder": "Le dossier des versions a été ouvert dans votre navigateur.",
+      "failed": "ÉCHEC DE LA VÉRIFICATION",
+      "retry": "cliquez pour réessayer",
+      "latestHint": "cliquez pour rechercher des mises à jour",
+      "searching": "Recherche de mises à jour …",
+      "searchingHint": "Comparaison de cette installation avec la dernière version.",
+      "upToDateTitle": "Vous êtes à jour",
+      "upToDate": "v{version} est la dernière version.",
+      "foundTitle": "Mise à jour disponible",
+      "found": "v{version} peut être téléchargée – cliquez sur « Mise à jour disponible » en bas à gauche.",
+      "failedTitle": "Échec de la recherche de mises à jour",
+      "cooldownTitle": "Vérification récente",
+      "cooldown": "Vous pourrez relancer la recherche dans {seconds} s."
+    },
+    "language": {
+      "label": "Langue",
+      "builtIn": "intégrée",
+      "download": "télécharger",
+      "downloading": "téléchargement …",
+      "downloadFailed": "La langue n’a pas pu être téléchargée",
+      "loadFailed": "Le fichier de langue n’a pas pu être lu",
+      "remove": "Supprimer le fichier de langue",
+      "removeFailed": "Le fichier de langue n’a pas pu être supprimé",
+      "confirmTitle": "Supprimer {language} ?",
+      "confirmText": "Le fichier de langue sera supprimé de ce PC. Vous pourrez le télécharger à nouveau à tout moment.",
+      "confirmActive": "L’installation repassera en anglais.",
+      "cancel": "Annuler",
+      "confirm": "Supprimer"
+    },
+    "uninstall": {
+      "button": "DÉSINSTALLER",
+      "installed": "PORK Emulatribe 2 {version} est déjà installé ici.",
+      "installedHint": "Désinstallez-le d’abord pour réinstaller cette version.",
+      "confirmTitle": "Désinstaller PORK Emulatribe 2 ?",
+      "confirmText": "L’application, ses raccourcis et entrées de registre, ainsi que les polices et le pilote KORG ajoutés par ce programme d’installation seront supprimés de ce PC.",
+      "deleteData": "Supprimer aussi mes patterns, samples et paramètres",
+      "deleteDataHint": "Sinon, ils sont conservés pour une installation ultérieure.",
+      "confirm": "Désinstaller",
+      "cancel": "Annuler",
+      "working": "Désinstallation…",
+      "doneTitle": "PORK Emulatribe 2 a été supprimé",
+      "done": "Vous pouvez maintenant le réinstaller.",
+      "reboot": "Une police encore utilisée sera supprimée au prochain redémarrage de Windows.",
+      "leftovers": "Les éléments suivants n’ont pas pu être supprimés :",
+      "failedTitle": "Échec de la désinstallation",
+      "close": "Fermer",
+      "doneStandalone": "Tout a été supprimé. Tu peux fermer cette fenêtre."
+    },
+    "window": {
+      "minimize": "Réduire",
+      "close": "Fermer"
+    },
+    "notices": {
+      "region": "Notifications",
+      "dismiss": "Fermer",
+      "unexpected": "Erreur inattendue"
+    },
+    "crash": {
+      "title": "Cette étape n’a pas pu être affichée",
+      "reload": "recharger"
+    },
+    "errors": {
+      "minimize": "Impossible de réduire la fenêtre",
+      "close": "Impossible de fermer la fenêtre",
+      "setupInfo": "Impossible de lire les informations d’installation",
+      "diskFree": "Impossible de lire l’espace disque disponible",
+      "folderDialog": "Impossible d’ouvrir la boîte de dialogue des dossiers",
+      "openLink": "Impossible d’ouvrir le lien",
+      "startApp": "Impossible de lancer PORK Emulatribe 2",
+      "desktopOnly": "Disponible uniquement dans l’installation de bureau."
+    }
+  }
+}

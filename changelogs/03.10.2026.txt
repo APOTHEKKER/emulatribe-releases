@@ -1,0 +1,17 @@
+Oct 3, 2026 (v1.26.103)
+
+New Features
+
+(emulatribe2) 38 IFX, 32 MFX vollständig implementiert
+(emulatribe2) Seq Reverse, Seq Doubler, Odd/Even Stepper
+(emulatribe2) Voice Assign: Mono1 (Legato), Mono2, Poly1, Poly2
+(emulatribe2) AudioWorklet-Engine mit PolyBLEP, Sync, Unison, Noise
+(emulatribe2) Sample Edit: Time Slice, Start/End/Loop, Tune, Play Level, Delete, Rename
+(emulatribe2) Sampling & Resampling via Shift+Rec, 499 User Samples / 270 s
+
+Fixes & Enhancements
+
+(emulatribe2) MFX On/Off Bug behoben
+(emulatribe2) Last Step auf Part-Ebene korrigiert
+(emulatribe2) Gate Time 0–96 + TIE (127); alter Bereich 1–32 entfernt
+(emulatribe2) Part Priority greift jetzt in der Audioengine

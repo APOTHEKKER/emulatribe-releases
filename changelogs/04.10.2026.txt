@@ -1,0 +1,26 @@
+Oct 4, 2026 (v1.26.104)
+
+New Features
+
+    - (Installer) Added automatic installation of Korg MIDI drivers.
+    - (Installer) Overworked the Setup UI, added cool visual effects
+    - (emulatribe2) added new default presets 
+    - (emulatribe2) Switched to a Rust based Audio API.
+    - (emulatribe2) External Sync via Audio In
+    - (emulatribe2) Export P.Set Audio, Chain Audio, Export All Sample, Part-Stems als ZIP
+    - (emulatribe2) Init Pattern aus echter Gerätedatei (Pattern 238)
+    - (emulatribe2) Round-Trip echter .e2sallpat bytegenau; Migration alter v1-Pattern
+
+Fixes & Enhancements
+
+    - (Installer) Numerous errors were fixed, and development was completed, bringing the system to full functionality.
+    - (emulatribe2) Scale Mode in Sequenzverarbeitung berücksichtigt
+    - (emulatribe2) Motion Off/Smooth/Trigger Hold korrekt ausgewertet
+    - (emulatribe2) Mehrere Noten pro Step vollständig in Audio-Engine
+
+
+Notes & Comments
+
+    The app is still under development and is in its early stages. But I’ll keep working on it, hoping to soon create the ultimate emulator for techno fans and music lovers of all kinds.
+
+

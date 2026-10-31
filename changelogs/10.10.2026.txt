@@ -1,0 +1,33 @@
+Oct 10, 2026 (v1.26.105)
+
+New Features
+
+    - (emulatribe2) SD card: exports, imports and updates now go through a memory card, like on the real device. Use the internal card or mount a folder from your PC (e.g. an SD card), download single files or the whole card as ZIP, or drop files onto the device to put them into the right folder.
+    - (emulatribe2) New menu page "SD Card & System" with a button to restore the factory system.
+    - (emulatribe2) SOFTWARE UPDATE (DATA UTILITY) installs original KORG system updates (SYSTEM.VSB or the update ZIP) with the original screens: version check, "Are You Sure ?", progress, "OK. Please Reboot.". After a restart the device runs as electribe 2.02 or electribe sampler 2.02.
+    - (emulatribe2) Older system versions can be installed too, after a warning screen. Below 2.0 CHAIN and UNDO are gone, as on the real device. Like on the original, 1.x has to go through 1.19 (electribe) or 1.16 (electribe sampler) first.
+    - (emulatribe2) Hacktribe 2 firmware can be installed via SOFTWARE UPDATE. The device then boots as "hacktribe 2.02" and uses the KORG/hacktribe/ card folder. Systems with a wrong checksum are shown as "Modified System / not from KORG" and need a confirmation.
+    - (emulatribe2) Hacktribe oscillators: the oscillator list (274 entries, same numbers as on a real hacktribe) is read from the firmware. New oscillator types in the audio engine: DUAL, OCT, CHIP, RING, X and VPM (recreations, not bit-exact).
+    - (emulatribe2) Event Recorder / Event Player now read and write the real KORG files (e_NNN.e2sev / .e2ev). Pattern snapshots, all notes, parameter changes and motion values are recorded. Old .json recordings still play.
+    - (Installer) Hacktribe: new, preselected target "Emulatribe (this PC)". The setup downloads the KORG firmware and the patch, checks both hashes and hands the file to the installed app, which opens SOFTWARE UPDATE right away. A new button starts Emulatribe afterwards.
+    - (Installer) Checks at start whether Emulatribe is already installed (registry). If so, an UNINSTALL button replaces NEXT.
+    - (Installer) Complete uninstall: shortcuts, registry entries, KORG driver and fonts (only if this setup installed them), WebView2 copy and all app files. Optionally your patterns, samples and settings are deleted too.
+    - (Installer) The standard Windows uninstaller is replaced by our own: "Apps & Features" opens the setup with the uninstall dialog, and the app menu has a new "Uninstall ..." button. Silent uninstall (--quiet) still works.
+    - (Installer) The install path box is clickable (opens the folder dialog) and has a hover animation. The EULA and Privacy Policy checkboxes were replaced by new glow checkboxes.
+
+File Compatibility
+
+    - (emulatribe2) Patterns (.e2spat / .e2pat) and All Pattern files: KORG's 2016 bonus patterns (synth and sampler, 250 each) are written back byte-identical. Motion sequences, CHAIN TO / REPEAT, CHAIN MODE, PTN. CHANGE LOCK and pattern sets are now saved, they were lost on export before.
+    - (emulatribe2) Samples (e2sSample.all, WAV): a foreign 15.6 MB file with 52 samples stays byte-identical. e2sSample.all replaces the whole sample memory like on the device, and KORG's "Clear Preset Sample Data" file works.
+    - (emulatribe2) EXPORT AUDIO creates the project folder like the original: WAV files, an Ableton Live Set (.als) and a _Lite.als from 9 parts.
+    - (emulatribe2) Event files follow the loader rules of the device. Invalid files are rejected with "Invalid Data File".
+
+Fixes & Enhancements
+
+    - (emulatribe2) OSC EDIT works continuously on the analog oscillators (before it acted more or less like an on/off switch). Existing patterns with analog oscillators can sound slightly different.
+    - (emulatribe2) HPF NOISE no longer becomes unstable on high notes.
+    - (emulatribe2) With an electribe (synth) system installed, sampling and the sample menus disappear, like on the real synth. CHAIN is only available from system 2.0.
+    - (emulatribe2) In Hacktribe mode there are no factory samples, only user samples 501-999. Patterns that use preset samples fall back to SAW.
+    - (Installer) German, Spanish, French and Russian translations for the new uninstall texts.
+
+The firmware itself is not executed: an update only changes identity, card folder and version, sound and functions stay the emulator's own. Event files are not yet verified against recordings from a real device.
