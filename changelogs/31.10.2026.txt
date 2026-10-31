@@ -1,0 +1,10 @@
+Oct 31, 2026 (v1.26.107)
+New Features
+    - (MIDI) Full connection to a real electribe sampler 2: choose the MIDI ports, mirror the knobs both ways, send and receive patterns via SysEx and sync the clock as master or slave.
+    - (Update) Several system updates on the SD card: SOFTWARE UPDATE now asks which one to install ("Select File"); for systems running on the emulated hardware you pick it under "SD-Karte & System".
+    - (Setup) The setup now installs Blechtribe 1.3.7_V202 directly instead of downloading the KORG firmware and the Hacktribe patch.
+Improvements
+    - (Sound) Installed systems sound closer to the device: master effect on the touch pad, exact note timing, tempo-synced effects, knob turns on held notes, the firmware's own velocity and alternate 13/14 and 15/16.
+    - (Setup) Updates now replace the installed app directly, and everything the setup downloads (app, changelogs, languages, driver, fonts, WebView2) comes from GitHub.
+Fixes
+    - (Samples) A silent e2sSample.all written by an installed system no longer replaces your samples.
