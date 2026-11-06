@@ -1,0 +1,3 @@
+Nov 6, 2026 (v1.26.108)
+Fixes
+    - (Sequencer) Parts muted by hand stay muted when the sequencer moves on to the next pattern of a chain
