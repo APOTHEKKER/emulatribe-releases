@@ -1,0 +1,4 @@
+Nov 11, 2026 (v1.26.109)
+Fixes
+    - (Setup) The Welcome title reacts to the mouse on PCs without WebGPU too
+    - (Setup) An outdated WebView2 runtime (before Chromium 113) is replaced at start
